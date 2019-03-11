@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 03/10/19 23:53:55
+=======
+﻿Log file open, 03/10/19 20:26:51
+>>>>>>> 6f80188f93c0bd7f2e990dedc83052e9fa3f07e2
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,8 +11,13 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Jamfuzer
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.358093
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.297214
+>>>>>>> 6f80188f93c0bd7f2e990dedc83052e9fa3f07e2
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -87,7 +96,11 @@ LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.160s to configure plugins.
+=======
+LogStreaming: Display: Took  0.267s to configure plugins.
+>>>>>>> 6f80188f93c0bd7f2e990dedc83052e9fa3f07e2
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -141,6 +154,7 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.392s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -1465,3 +1479,1130 @@ LogInit: Object subsystem initialized
 [2019.03.11-00.31.26:831][730]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2019.03.11-00.31.26:837][730]LogExit: Exiting.
 [2019.03.11-00.31.26:857][730]Log file closed, 03/11/19 00:31:26
+=======
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.10-20.26.53:668][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.10-20.26.53:668][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.10-20.26.53:775][  0]LogHAL: Display: Platform has ~ 24 GB [25705910272 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.10-20.26.53:775][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.10-20.26.53:775][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.10-20.26.53:775][  0]LogInit: Computer: SPACE-PC
+[2019.03.10-20.26.53:775][  0]LogInit: User: space
+[2019.03.10-20.26.53:775][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.10-20.26.53:775][  0]LogInit: High frequency timer resolution =3.326091 MHz
+[2019.03.10-20.26.53:776][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2019.03.10-20.26.53:776][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.10-20.26.53:776][  0]LogMemory: Process Physical Memory: 100.24 MB used, 100.24 MB peak
+[2019.03.10-20.26.53:776][  0]LogMemory: Process Virtual Memory: 92.22 MB used, 92.22 MB peak
+[2019.03.10-20.26.53:776][  0]LogMemory: Physical Memory: 7144.18 MB used,  17370.88 MB free, 24515.07 MB total
+[2019.03.10-20.26.53:776][  0]LogMemory: Virtual Memory: 4631.24 MB used,  17370.88 MB free, 134217728.00 MB total
+[2019.03.10-20.26.55:031][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.10-20.26.55:031][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.10-20.26.55:032][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.10-20.26.56:222][  0]LogStreaming: Display: Took  1.191s to InitEngineTextLocalization.
+[2019.03.10-20.26.56:222][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.10-20.26.56:816][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.10-20.26.56:817][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.10-20.27.00:549][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.10-20.27.00:674][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.03.10-20.27.00:674][  0]LogD3D11RHI:       8088/0/12257 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.10-20.27.00:677][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.10-20.27.00:677][  0]LogD3D11RHI:       0/0/12257 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.10-20.27.00:677][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.10-20.27.00:685][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.10-20.27.00:685][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.10-20.27.00:685][  0]LogWindows: EnumDisplayDevices:
+[2019.03.10-20.27.00:685][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.03.10-20.27.00:685][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.03.10-20.27.00:685][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.10-20.27.00:686][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.10-20.27.00:686][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.10-20.27.00:686][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.03.10-20.27.00:686][  0]LogD3D11RHI:   Driver Version: 418.81 (internal:25.21.14.1881, unified:418.81)
+[2019.03.10-20.27.00:686][  0]LogD3D11RHI:      Driver Date: 1-30-2019
+[2019.03.10-20.27.00:686][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.03.10-20.27.00:730][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.10-20.27.00:775][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.10-20.27.00:861][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061087).
+[2019.03.10-20.27.00:861][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (I:/Jam/Jamfuzer/Jamfuzer/Intermediate/Shaders/WorkingDirectory/11436/).
+[2019.03.10-20.27.00:861][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/space/AppData/Local/Temp/UnrealShaderWorkingDir/E167DE6E47F696773FDC9DA0D07E7A64/'.
+[2019.03.10-20.27.01:770][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.10-20.27.01:816][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.10-20.27.01:850][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.10-20.27.01:885][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.10-20.27.01:956][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.10-20.27.01:996][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.10-20.27.02:034][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.10-20.27.02:067][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.10-20.27.02:090][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.27.02:367][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.10-20.27.02:690][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.10-20.27.02:690][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.10-20.27.02:736][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.10-20.27.02:736][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.10-20.27.02:778][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.10-20.27.02:799][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.10-20.27.02:819][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.10-20.27.02:862][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.10-20.27.02:898][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.10-20.27.02:898][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.10-20.27.04:239][  0]LogXGEController: Cleaning working directory: C:/Users/space/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.10-20.27.04:239][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.10-20.27.04:240][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.10-20.27.04:240][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.10-20.27.04:917][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.10-20.27.05:657][  0]LogDerivedDataCache: Loaded boot cache 0.74s 68MB C:/Users/space/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.10-20.27.05:657][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/space/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.10-20.27.05:657][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/Jam/Jamfuzer/Jamfuzer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.10-20.27.05:657][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.10-20.27.05:657][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/Jam/Jamfuzer/Jamfuzer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.10-20.27.05:657][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.10-20.27.05:703][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.10-20.27.05:715][  0]LogDerivedDataCache: Using Local data cache path C:/Users/space/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.10-20.27.05:715][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.10-20.27.05:715][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.10-20.27.05:734][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.10-20.27.05:735][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.10-20.27.05:762][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.10-20.27.08:072][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2019.03.10-20.27.08:349][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.10-20.27.09:094][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.10-20.27.09:521][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.10-20.27.09:521][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.10-20.27.09:522][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.10-20.27.09:522][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.10-20.27.09:655][  0]LogNetVersion: Jamfuzer 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1409804063)
+[2019.03.10-20.27.10:987][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.891290 seconds
+[2019.03.10-20.27.11:009][  0]LogUObjectArray: 37967 objects as part of root set at end of initial load.
+[2019.03.10-20.27.11:010][  0]LogUObjectAllocator: 6605928 out of 0 bytes used by permanent object pool.
+[2019.03.10-20.27.11:010][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.10-20.27.35:813][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.10-20.27.36:008][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.10-20.27.37:231][  0]SourceControl: Source control is disabled
+[2019.03.10-20.27.37:231][  0]SourceControl: Source control is disabled
+[2019.03.10-20.27.37:302][  0]SourceControl: Source control is disabled
+[2019.03.10-20.27.37:330][  0]SourceControl: Source control is disabled
+[2019.03.10-20.27.39:792][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.10-20.27.40:587][  0]LogEngine: Initializing Engine...
+[2019.03.10-20.27.40:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.10-20.27.40:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.10-20.27.40:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.10-20.27.40:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.10-20.27.40:805][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.10-20.27.40:932][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.10-20.27.40:978][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.27.40:992][  0]LogInit: FAudioDevice initialized.
+[2019.03.10-20.27.40:993][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.10-20.27.41:138][  0]LogDerivedDataCache: Saved boot cache 0.15s 68MB C:/Users/space/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.10-20.27.41:141][  0]LogInit: Texture streaming: Enabled
+[2019.03.10-20.27.41:409][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.10-20.27.41:409][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={E8193D6C-4D1F-5735-3C9B-E28E87B301AF}
+[2019.03.10-20.27.41:468][  0]LogInit: Transaction tracking system initialized
+[2019.03.10-20.27.41:749][  0]BlueprintLog: New page: Editor Load
+[2019.03.10-20.27.42:902][  0]LocalizationService: Localization service is disabled
+[2019.03.10-20.27.45:526][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.10-20.27.45:526][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.10-20.27.45:526][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.10-20.27.45:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.10-20.27.45:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.10-20.27.45:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.10-20.27.45:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.10-20.27.46:608][  0]LogFileCache: Scanning file cache for directory 'I:/Jam/Jamfuzer/Jamfuzer/Content/' took 0.03s
+[2019.03.10-20.27.48:202][  0]SourceControl: Source control is disabled
+[2019.03.10-20.27.48:202][  0]Cmd: MAP LOAD FILE="I:/Jam/Jamfuzer/Jamfuzer/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.10-20.27.48:346][  0]LightingResults: New page: Lighting Build
+[2019.03.10-20.27.48:349][  0]MapCheck: New page: Map Check
+[2019.03.10-20.27.48:349][  0]LightingResults: New page: Lighting Build
+[2019.03.10-20.27.51:539][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.03.10-20.27.51:556][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.10-20.27.51:581][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.10-20.27.51:646][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.99ms to complete.
+[2019.03.10-20.27.51:646][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.444
+[2019.03.10-20.27.51:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.27.51:889][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.27.51:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.27.51:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.27.51:963][  0]LogCollectionManager: Loaded 0 collections in 0.002210 seconds
+[2019.03.10-20.27.52:039][  0]LogFileCache: Scanning file cache for directory 'I:/Jam/Jamfuzer/Jamfuzer/Saved/Collections/' took 0.01s
+[2019.03.10-20.27.52:039][  0]LogFileCache: Scanning file cache for directory 'I:/Jam/Jamfuzer/Jamfuzer/Content/Developers/space/Collections/' took 0.01s
+[2019.03.10-20.27.52:039][  0]LogFileCache: Scanning file cache for directory 'I:/Jam/Jamfuzer/Jamfuzer/Content/Collections/' took 0.01s
+[2019.03.10-20.27.52:039][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.10-20.27.52:052][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2565 classes and 594 folders.
+[2019.03.10-20.27.52:061][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.10-20.27.52:863][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.10-20.27.52:928][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.03.10-20.27.53:084][  0]LogSlate: Took 0.021708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.10-20.27.53:124][  0]LogSlate: Took 0.037995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.10-20.27.53:140][  0]LogSlate: Took 0.012224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.10-20.27.53:249][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.03.10-20.27.53:493][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.10-20.27.53:493][  0]LogLoad: (Engine Initialization) Total time: 70.34 seconds
+[2019.03.10-20.27.53:493][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.10-20.27.53:503][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.10-20.27.53:528][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.10-20.27.53:605][  1]LogAssetRegistry: Asset discovery search completed in 45.5575 seconds
+[2019.03.10-20.27.53:607][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.10-20.27.53:607][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.03.10-20.27.54:561][ 88]LogSlate: Took 0.022826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.10-20.27.56:806][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.27.59:126][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.28.10:496][666]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.28.10:535][666]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TestLevel01.TestLevel01
+[2019.03.10-20.28.10:557][666]Cmd: MAP LOAD FILE="I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.10-20.28.10:557][666]LightingResults: New page: Lighting Build
+[2019.03.10-20.28.10:558][666]LoadErrors: New page: Loading map: TestLevel01.umap
+[2019.03.10-20.28.10:559][666]MapCheck: New page: Map Check
+[2019.03.10-20.28.10:559][666]LightingResults: New page: Lighting Build
+[2019.03.10-20.28.10:698][666]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.10-20.28.10:749][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.10-20.28.10:823][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.289ms to complete.
+[2019.03.10-20.28.10:823][666]LogFileHelpers: Loading map 'TestLevel01' took 0.267
+[2019.03.10-20.28.18:046][414]LogEditorViewport: Clicking on Actor (LMB): 4x1PressedJunk_C (4x1PressedJunk)
+[2019.03.10-20.28.18:795][492]Cmd: DELETE
+[2019.03.10-20.28.18:796][492]Cmd: ACTOR DELETE
+[2019.03.10-20.28.19:677][492]LogEditorActor: Deleted Actor: 4x1PressedJunk_C
+[2019.03.10-20.28.19:714][492]LogEditorActor: Deleted 1 Actors (0.918 secs)
+[2019.03.10-20.28.34:021][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.28.38:527][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen6)
+[2019.03.10-20.29.37:415][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile5)
+[2019.03.10-20.29.43:335][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.29.43:406][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.29.43:424][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.29.43:436][ 74]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:29:43)
+[2019.03.10-20.29.43:436][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.29.43:509][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072998s)
+[2019.03.10-20.29.43:510][ 74]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.29.43:510][ 74]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.03.10-20.29.43:510][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.074020s)
+[2019.03.10-20.29.43:554][ 74]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.29.43:564][ 74]LogInit: FAudioDevice initialized.
+[2019.03.10-20.29.43:608][ 74]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.29.43:616][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.29.43
+[2019.03.10-20.29.43:617][ 74]LogWorld: Bringing up level for play took: 0.008081
+[2019.03.10-20.29.43:635][ 74]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2019.03.10-20.29.43:641][ 74]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.29.43:642][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.485
+[2019.03.10-20.29.59:252][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.29.59:289][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.29.59:312][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.29.59:359][896]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.03.10-20.32.14:078][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.32.39:161][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.34.43:541][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.34.44:721][931]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.34.44:777][931]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.34.50:812][571]LogEditorViewport: Clicking on Actor (LMB): PressurePlateManager_C (PressurePlateManager2)
+[2019.03.10-20.35.34:695][869]LogEditorViewport: Clicking on Actor (LMB): JunkCube_Parent_C (JunkCube_Parent2)
+[2019.03.10-20.35.47:855][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.35.47:930][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.35.47:948][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.35.47:948][ 82]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:35:47)
+[2019.03.10-20.35.47:948][ 82]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.35.48:020][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072017s)
+[2019.03.10-20.35.48:021][ 82]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.35.48:021][ 82]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.03.10-20.35.48:021][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.072943s)
+[2019.03.10-20.35.48:066][ 82]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.35.48:076][ 82]LogInit: FAudioDevice initialized.
+[2019.03.10-20.35.48:108][ 82]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.35.48:115][ 82]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.35.48
+[2019.03.10-20.35.48:116][ 82]LogWorld: Bringing up level for play took: 0.007503
+[2019.03.10-20.35.48:132][ 82]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.35.48:133][ 82]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.976
+[2019.03.10-20.36.39:668][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.36.39:705][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.36.39:728][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.36.39:767][261]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.10-20.36.41:488][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampLower3)
+[2019.03.10-20.36.42:181][470]Cmd: DELETE
+[2019.03.10-20.36.42:181][470]Cmd: ACTOR DELETE
+[2019.03.10-20.36.42:196][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.36.42:216][470]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.03.10-20.36.43:124][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampLower)
+[2019.03.10-20.36.43:912][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampLower)
+[2019.03.10-20.36.50:260][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile3)
+[2019.03.10-20.36.54:886][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile4)
+[2019.03.10-20.37.00:021][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.03.10-20.37.03:226][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile7)
+[2019.03.10-20.37.36:123][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile7)
+[2019.03.10-20.37.38:300][800]Cmd: EDCALLBACK SURFPROPS
+[2019.03.10-20.37.41:231][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile3)
+[2019.03.10-20.37.47:648][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.03.10-20.37.51:944][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile7)
+[2019.03.10-20.37.52:378][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile8)
+[2019.03.10-20.37.53:515][203]Cmd: DELETE
+[2019.03.10-20.37.53:515][203]Cmd: ACTOR DELETE
+[2019.03.10-20.37.53:530][203]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.37.53:549][203]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.03.10-20.37.53:996][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile7)
+[2019.03.10-20.38.05:947][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.38.06:053][248]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.38.06:072][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.38.06:072][248]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:38:06)
+[2019.03.10-20.38.06:072][248]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.38.06:142][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070059s)
+[2019.03.10-20.38.06:143][248]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.38.06:143][248]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.03.10-20.38.06:143][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.070945s)
+[2019.03.10-20.38.06:186][248]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.38.06:196][248]LogInit: FAudioDevice initialized.
+[2019.03.10-20.38.06:225][248]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.38.06:233][248]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.38.06
+[2019.03.10-20.38.06:234][248]LogWorld: Bringing up level for play took: 0.008312
+[2019.03.10-20.38.06:249][248]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.38.06:250][248]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 1.093
+[2019.03.10-20.38.17:008][439]LogBlueprintUserMessages: [Compactor2_2] not enough junk
+[2019.03.10-20.38.20:960][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.38.21:003][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.38.21:026][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.38.21:064][816]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.03.10-20.38.33:285][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile4)
+[2019.03.10-20.38.37:969][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile7)
+[2019.03.10-20.38.49:880][213]Cmd: TRANSACTION UNDO
+[2019.03.10-20.38.49:880][213]LogEditorTransaction: Undo Move Actors
+[2019.03.10-20.38.50:325][230]Cmd: TRANSACTION UNDO
+[2019.03.10-20.38.50:325][230]LogEditorTransaction: Undo Scale Actors
+[2019.03.10-20.38.51:000][278]Cmd: TRANSACTION UNDO
+[2019.03.10-20.38.51:000][278]LogEditorTransaction: Undo Scale Actors
+[2019.03.10-20.38.52:253][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile4)
+[2019.03.10-20.38.54:230][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubbishPile7)
+[2019.03.10-20.39.02:074][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile9)
+[2019.03.10-20.39.06:123][818]Cmd: TRANSACTION UNDO
+[2019.03.10-20.39.06:124][818]LogEditorTransaction: Undo Move Actors
+[2019.03.10-20.39.20:390][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingBase5)
+[2019.03.10-20.39.21:536][508]Cmd: DELETE
+[2019.03.10-20.39.21:536][508]Cmd: ACTOR DELETE
+[2019.03.10-20.39.21:551][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.39.21:570][508]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.03.10-20.39.22:146][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingBase4)
+[2019.03.10-20.39.22:287][586]Cmd: DELETE
+[2019.03.10-20.39.22:287][586]Cmd: ACTOR DELETE
+[2019.03.10-20.39.22:302][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.39.22:321][586]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.03.10-20.39.39:766][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.39.41:051][646]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.03.10-20.39.43:362][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.39.50:120][557]Cmd: TRANSACTION UNDO
+[2019.03.10-20.39.50:120][557]LogEditorTransaction: Undo Move Actors
+[2019.03.10-20.39.50:221][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush43_40.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:221][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush48_41.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:221][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush54.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:221][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush58_75.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:222][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:222][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:226][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:226][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:227][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush18.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:228][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush14.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:228][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush67.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:228][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush21.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:229][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:229][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:229][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:247][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush32_81.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:249][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush24_83.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:249][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush_22.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:249][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:249][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:250][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:250][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:250][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:251][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush134.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:251][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush130.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:251][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush131.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:251][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush148.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:251][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush149.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:252][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush154.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:252][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush27.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:253][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush22.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:255][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush35.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:255][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush36.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:255][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush172.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:256][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush108_274.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:256][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush88_263.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:257][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush101_271.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:257][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush84.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:257][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush86_223.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:258][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush111_229.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:258][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush102_224.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:258][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush160.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:259][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush161.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:259][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush157.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:259][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush123.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:260][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush119.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:260][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:260][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush93.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:260][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush94.BrushComponent0) Component already registered.
+[2019.03.10-20.39.50:308][557]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.03.10-20.39.50:308][557]LogGeometryMode: Warning: Unable to resolve BoxBrush95 Brush in new BSP, see above
+[2019.03.10-20.39.50:308][557]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.10-20.39.51:422][650]LogGeometryMode: Warning: Unable to find BoxBrush153 Brush(s) in new BSP
+[2019.03.10-20.39.51:422][650]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.10-20.39.51:609][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.40.22:856][824]Cmd: TRANSACTION UNDO
+[2019.03.10-20.40.22:856][824]LogEditorTransaction: Undo Move Actors
+[2019.03.10-20.40.22:953][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush43_40.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:953][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush48_41.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:954][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush54.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:954][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush58_75.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:955][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:955][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:956][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:956][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:956][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush18.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:957][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush14.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:957][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush67.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:957][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush21.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:958][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:958][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:958][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:975][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush32_81.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:976][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush24_83.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:976][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush_22.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:977][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:977][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:977][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:977][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:978][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:978][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush134.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:978][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush130.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:978][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush131.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:979][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush148.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:979][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush149.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:979][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush154.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:979][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush27.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:980][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush22.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:982][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush35.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:982][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush36.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:982][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush172.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:983][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush108_274.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:983][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush88_263.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:983][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush101_271.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:983][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush84.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:984][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush86_223.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:984][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush111_229.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:984][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush102_224.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:985][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush160.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:985][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush161.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:985][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush157.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:985][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush123.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:986][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush119.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:986][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:986][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush93.BrushComponent0) Component already registered.
+[2019.03.10-20.40.22:986][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush94.BrushComponent0) Component already registered.
+[2019.03.10-20.40.23:032][824]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.03.10-20.40.23:032][824]LogGeometryMode: Warning: Unable to resolve BoxBrush95 Brush in new BSP, see above
+[2019.03.10-20.40.23:032][824]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.10-20.40.23:484][840]LogGeometryMode: Warning: Unable to find BoxBrush96 Brush(s) in new BSP
+[2019.03.10-20.40.23:484][840]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.10-20.40.37:964][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.40.41:072][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.40.53:881][ 34]LogGeometryMode: Warning: Unable to find BoxBrush46_66 Brush(s) in new BSP
+[2019.03.10-20.40.53:882][ 34]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.10-20.40.59:300][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile6)
+[2019.03.10-20.40.59:924][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen2)
+[2019.03.10-20.41.29:714][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.41.42:804][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.41.51:567][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen8)
+[2019.03.10-20.42.08:348][131]LogEditorViewport: Clicking on Actor (LMB): JunkCube_Parent_C (JunkCube_Parent3)
+[2019.03.10-20.42.10:230][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen8)
+[2019.03.10-20.42.35:425][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampUpper)
+[2019.03.10-20.42.45:708][176]LogEditorViewport: Clicking on Actor (LMB): JunkCube_Parent_C (JunkCube_Parent3)
+[2019.03.10-20.42.56:704][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.42.56:788][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.42.56:806][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.42.56:806][320]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:42:56)
+[2019.03.10-20.42.56:806][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.42.56:878][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071699s)
+[2019.03.10-20.42.56:879][320]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.42.56:879][320]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.03.10-20.42.56:879][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.072616s)
+[2019.03.10-20.42.56:932][320]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.42.56:942][320]LogInit: FAudioDevice initialized.
+[2019.03.10-20.42.56:975][320]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.42.56:983][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.42.56
+[2019.03.10-20.42.56:985][320]LogWorld: Bringing up level for play took: 0.008554
+[2019.03.10-20.42.57:001][320]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.42.57:001][320]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 -0.156
+[2019.03.10-20.43.15:140][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.43.15:175][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.43.15:196][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.43.15:248][495]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.10-20.43.27:370][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpen3)
+[2019.03.10-20.43.50:543][268]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.43.53:261][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2019.03.10-20.43.54:143][678]Cmd: DELETE
+[2019.03.10-20.43.54:143][678]Cmd: ACTOR DELETE
+[2019.03.10-20.43.54:160][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.43.54:180][678]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.03.10-20.43.54:673][728]Cmd: DELETE
+[2019.03.10-20.43.54:938][728]Cmd: ACTOR DELETE
+[2019.03.10-20.43.54:956][728]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.43.55:152][728]LogEditorActor: Deleted 1 Actors (0.214 secs)
+[2019.03.10-20.43.55:934][783]Cmd: DELETE
+[2019.03.10-20.43.56:209][783]Cmd: ACTOR DELETE
+[2019.03.10-20.43.56:228][783]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.43.56:426][783]LogEditorActor: Deleted 1 Actors (0.218 secs)
+[2019.03.10-20.43.57:112][831]Cmd: DELETE
+[2019.03.10-20.43.57:383][831]Cmd: ACTOR DELETE
+[2019.03.10-20.43.57:405][831]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.43.57:598][831]LogEditorActor: Deleted 1 Actors (0.216 secs)
+[2019.03.10-20.43.58:331][886]Cmd: DELETE
+[2019.03.10-20.43.58:595][886]Cmd: ACTOR DELETE
+[2019.03.10-20.43.58:617][886]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.43.58:811][886]LogEditorActor: Deleted 1 Actors (0.215 secs)
+[2019.03.10-20.43.59:904][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2019.03.10-20.44.00:183][ 10]Cmd: DELETE
+[2019.03.10-20.44.00:451][ 10]Cmd: ACTOR DELETE
+[2019.03.10-20.44.00:472][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.44.00:497][ 10]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.03.10-20.44.01:066][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpen4)
+[2019.03.10-20.44.10:877][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.44.10:943][130]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.44.10:962][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.44.10:963][130]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:44:10)
+[2019.03.10-20.44.10:963][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.44.11:036][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073714s)
+[2019.03.10-20.44.11:037][130]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.44.11:037][130]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.03.10-20.44.11:037][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.074623s)
+[2019.03.10-20.44.11:082][130]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.44.11:092][130]LogInit: FAudioDevice initialized.
+[2019.03.10-20.44.11:125][130]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.44.11:133][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.44.11
+[2019.03.10-20.44.11:134][130]LogWorld: Bringing up level for play took: 0.008556
+[2019.03.10-20.44.11:151][130]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.44.11:151][130]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 -0.005
+[2019.03.10-20.44.34:589][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.44.34:623][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.44.34:649][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.44.34:693][339]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.10-20.44.36:949][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen8)
+[2019.03.10-20.44.39:631][830]Cmd: DELETE
+[2019.03.10-20.44.39:631][830]Cmd: ACTOR DELETE
+[2019.03.10-20.44.39:649][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.44.39:670][830]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.03.10-20.44.44:723][421]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.44.45:112][447]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen4)
+[2019.03.10-20.44.45:444][477]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen5)
+[2019.03.10-20.44.45:768][509]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen6)
+[2019.03.10-20.44.46:125][545]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen7)
+[2019.03.10-20.45.07:908][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.10-20.45.12:734][209]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.10-20.45.21:624][898]LogGeometryMode: Warning: Unable to find BoxBrush57 Brush(s) in new BSP
+[2019.03.10-20.45.21:624][898]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.10-20.45.22:375][927]Cmd: TRANSACTION UNDO
+[2019.03.10-20.45.22:375][927]LogEditorTransaction: Undo Move Actors
+[2019.03.10-20.45.22:486][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush41_36.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:487][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:488][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:488][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:488][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:489][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:489][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:489][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush48_41.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:489][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush55.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:490][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush67.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:490][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:490][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush16.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:506][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.GroupActor_4.GroupComponent) Component already registered.
+[2019.03.10-20.45.22:507][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush8.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:507][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:507][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:508][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:510][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush179_484.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:510][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.CylinderBrush22.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:511][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush176.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:511][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush95.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:511][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:512][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush165.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:512][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush153.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:512][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush172.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:512][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush173.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:512][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush167.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:512][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush115_233.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:513][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush111_229.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:513][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush106_272.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:513][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush85_261.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:514][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush87_262.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:514][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush83.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:514][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:514][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush104_226.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:514][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush89.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:515][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush90.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:515][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush144.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:515][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush146.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:516][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush156.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:516][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush121.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:516][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush109_275.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:516][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush136.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:516][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush124.BrushComponent0) Component already registered.
+[2019.03.10-20.45.22:517][927]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TestLevel01.TestLevel01:PersistentLevel.BoxBrush91.BrushComponent0) Component already registered.
+[2019.03.10-20.45.23:168][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.45.30:452][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.45.30:921][734]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen4)
+[2019.03.10-20.45.31:333][776]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen5)
+[2019.03.10-20.45.31:659][808]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen6)
+[2019.03.10-20.45.32:053][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen7)
+[2019.03.10-20.45.40:061][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.45.40:784][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen4)
+[2019.03.10-20.45.41:366][777]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen5)
+[2019.03.10-20.45.41:719][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen6)
+[2019.03.10-20.45.42:146][856]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen7)
+[2019.03.10-20.46.28:776][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.46.36:079][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.46.38:456][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.46.38:586][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel01" FILE="I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-20.46.39:690][175]LogSavePackage: Moving 'I:/Jam/Jamfuzer/Jamfuzer/Saved/TestLevel014548701E48696DB61255C4A446833473.tmp' to 'I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap'
+[2019.03.10-20.46.39:937][175]LogFileHelpers: Saving map 'TestLevel01' took 1.430
+[2019.03.10-20.46.48:634][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpen6)
+[2019.03.10-20.47.01:438][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal2)
+[2019.03.10-20.47.13:029][603]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ScafoldingDoubleOpenDiagonal4)
+[2019.03.10-20.47.13:066][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.47.16:267][792]Cmd: ACTOR MIRROR X=-1
+[2019.03.10-20.47.23:169][571]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal3)
+[2019.03.10-20.47.25:508][802]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ScafoldingDoubleOpenDiagonal6)
+[2019.03.10-20.47.25:545][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.47.27:213][912]Cmd: ACTOR MIRROR Y=-1
+[2019.03.10-20.47.29:746][208]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal4)
+[2019.03.10-20.47.30:080][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal3)
+[2019.03.10-20.47.42:618][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpen7)
+[2019.03.10-20.47.43:028][703]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen6)
+[2019.03.10-20.47.43:349][733]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen5)
+[2019.03.10-20.47.43:636][760]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen4)
+[2019.03.10-20.47.43:957][791]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.47.51:467][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpen7)
+[2019.03.10-20.47.52:357][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal4)
+[2019.03.10-20.47.57:455][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.47.57:539][309]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.47.57:557][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.47.57:557][309]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:47:57)
+[2019.03.10-20.47.57:557][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.47.57:632][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074607s)
+[2019.03.10-20.47.57:633][309]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.47.57:633][309]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.03.10-20.47.57:633][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.075441s)
+[2019.03.10-20.47.57:683][309]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.47.57:693][309]LogInit: FAudioDevice initialized.
+[2019.03.10-20.47.57:725][309]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.47.57:734][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.47.57
+[2019.03.10-20.47.57:735][309]LogWorld: Bringing up level for play took: 0.009104
+[2019.03.10-20.47.57:752][309]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.47.57:752][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.595
+[2019.03.10-20.48.02:128][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.48.02:162][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.48.02:183][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.48.02:230][833]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.10-20.48.03:461][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal7)
+[2019.03.10-20.48.06:344][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpen7)
+[2019.03.10-20.48.07:074][325]Cmd: DELETE
+[2019.03.10-20.48.07:074][325]Cmd: ACTOR DELETE
+[2019.03.10-20.48.07:090][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.48.07:108][325]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.03.10-20.48.07:603][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal7)
+[2019.03.10-20.48.18:187][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal7)
+[2019.03.10-20.48.18:715][623]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen6)
+[2019.03.10-20.48.19:070][658]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen5)
+[2019.03.10-20.48.19:392][689]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpen4)
+[2019.03.10-20.48.19:741][723]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.48.36:415][376]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.10-20.48.41:106][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.48.41:148][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.48.41:166][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.48.41:167][912]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:48:41)
+[2019.03.10-20.48.41:167][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.48.41:270][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102783s)
+[2019.03.10-20.48.41:270][912]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.48.41:270][912]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.03.10-20.48.41:270][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.103638s)
+[2019.03.10-20.48.41:315][912]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.48.41:324][912]LogInit: FAudioDevice initialized.
+[2019.03.10-20.48.41:353][912]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.48.41:361][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.48.41
+[2019.03.10-20.48.41:363][912]LogWorld: Bringing up level for play took: 0.009363
+[2019.03.10-20.48.41:378][912]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.48.41:378][912]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.222
+[2019.03.10-20.48.54:112][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.48.54:148][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.48.54:173][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.48.54:232][433]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.10-20.49.33:084][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.49.34:182][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.49.34:310][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel01" FILE="I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-20.49.35:850][414]LogSavePackage: Moving 'I:/Jam/Jamfuzer/Jamfuzer/Saved/TestLevel01864731874440B5C30095FBBFE703E7E7.tmp' to 'I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap'
+[2019.03.10-20.49.36:040][414]LogFileHelpers: Saving map 'TestLevel01' took 1.811
+[2019.03.10-20.50.04:425][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampUpper)
+[2019.03.10-20.50.05:931][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.50.12:918][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampLower)
+[2019.03.10-20.50.13:922][702]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal)
+[2019.03.10-20.50.25:658][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingDoubleOpenDiagonal)
+[2019.03.10-20.50.26:697][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.50.30:052][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen6)
+[2019.03.10-20.50.31:559][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.50.34:021][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen2)
+[2019.03.10-20.50.34:962][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.50.38:117][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampLower)
+[2019.03.10-20.50.40:085][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.50.43:130][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile5)
+[2019.03.10-20.50.50:505][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.50.51:491][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.50.58:460][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.50.58:586][259]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.50.58:604][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.50.58:604][259]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:50:58)
+[2019.03.10-20.50.58:604][259]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.50.58:695][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091524s)
+[2019.03.10-20.50.58:696][259]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.50.58:696][259]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2019.03.10-20.50.58:696][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.092419s)
+[2019.03.10-20.50.58:743][259]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.50.58:753][259]LogInit: FAudioDevice initialized.
+[2019.03.10-20.50.58:783][259]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.50.58:792][259]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.50.58
+[2019.03.10-20.50.58:793][259]LogWorld: Bringing up level for play took: 0.008815
+[2019.03.10-20.50.58:810][259]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.50.58:810][259]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 -0.346
+[2019.03.10-20.51.14:214][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.51.14:250][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.51.14:272][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.51.14:319][104]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.10-20.51.40:496][635]Cmd: DELETE
+[2019.03.10-20.51.40:496][635]Cmd: ACTOR DELETE
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:540][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:541][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:541][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:541][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:541][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:541][635]LogEditorActor: Deleted Actor: Brush
+[2019.03.10-20.51.40:861][635]LogEditorActor: Deleted 13 Actors (0.364 secs)
+[2019.03.10-20.52.32:404][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.52.33:491][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.52.33:615][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel01" FILE="I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-20.52.35:151][981]LogSavePackage: Moving 'I:/Jam/Jamfuzer/Jamfuzer/Saved/TestLevel015B963B274A128B64B33E3A8D5123938D.tmp' to 'I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap'
+[2019.03.10-20.52.35:358][981]LogFileHelpers: Saving map 'TestLevel01' took 1.820
+[2019.03.10-20.52.52:074][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.53.01:923][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.53.10:510][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.53.39:601][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.10-20.53.45:711][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.53.45:791][587]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.53.45:812][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.53.45:812][587]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:53:45)
+[2019.03.10-20.53.45:812][587]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.53.45:970][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157834s)
+[2019.03.10-20.53.45:971][587]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.53.45:971][587]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2019.03.10-20.53.45:971][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.158887s)
+[2019.03.10-20.53.46:023][587]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.53.46:035][587]LogInit: FAudioDevice initialized.
+[2019.03.10-20.53.46:066][587]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.53.46:074][587]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.53.46
+[2019.03.10-20.53.46:075][587]LogWorld: Bringing up level for play took: 0.008591
+[2019.03.10-20.53.46:092][587]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.53.46:092][587]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.935
+[2019.03.10-20.53.51:924][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.53.51:958][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.53.51:980][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.53.52:024][256]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.10-20.53.55:353][576]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.03.10-20.53.56:526][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.53.59:145][976]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.53.59:163][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.53.59:163][976]PIE: New page: PIE session: TestLevel01 (10 Mar 2019 20:53:59)
+[2019.03.10-20.53.59:163][976]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel01
+[2019.03.10-20.53.59:263][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100882s)
+[2019.03.10-20.53.59:264][976]LogAIModule: Creating AISystem for world TestLevel01
+[2019.03.10-20.53.59:264][976]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.03.10-20.53.59:264][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel01.TestLevel01 to /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 (0.101618s)
+[2019.03.10-20.53.59:306][976]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-20.53.59:315][976]LogInit: FAudioDevice initialized.
+[2019.03.10-20.53.59:349][976]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.10-20.53.59:357][976]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel01.TestLevel01 up for play (max tick rate 0) at 2019.03.10-20.53.59
+[2019.03.10-20.53.59:358][976]LogWorld: Bringing up level for play took: 0.008850
+[2019.03.10-20.53.59:374][976]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SetPhysicsObjectLocation) or object (TopDownCharacter_C_0)
+[2019.03.10-20.53.59:374][976]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel01 0.218
+[2019.03.10-20.54.17:801][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.54.17:838][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.54.17:860][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.54.17:918][144]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.10-20.54.33:944][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingRampUpper2)
+[2019.03.10-20.54.50:719][782]Cmd: DELETE
+[2019.03.10-20.54.50:719][782]Cmd: ACTOR DELETE
+[2019.03.10-20.54.50:742][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-20.54.50:760][782]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.03.10-20.55.31:176][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.55.32:376][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.55.32:499][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel01" FILE="I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-20.55.33:911][529]LogSavePackage: Moving 'I:/Jam/Jamfuzer/Jamfuzer/Saved/TestLevel01060BBB1545F10AE25AEDC9A3EBC4D4BF.tmp' to 'I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap'
+[2019.03.10-20.55.34:099][529]LogFileHelpers: Saving map 'TestLevel01' took 1.675
+[2019.03.10-20.56.00:167][857]Cmd: POLY SELECT MATCHING BRUSH
+[2019.03.10-20.56.03:668][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.56.08:859][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.03.10-20.56.28:748][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.56.29:787][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-20.56.29:912][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel01" FILE="I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-20.56.31:095][523]LogSavePackage: Moving 'I:/Jam/Jamfuzer/Jamfuzer/Saved/TestLevel010D201DB9488FF7081649B2B4C060EE05.tmp' to 'I:/Jam/Jamfuzer/Jamfuzer/Content/Maps/TestLevel01.umap'
+[2019.03.10-20.56.31:373][523]LogFileHelpers: Saving map 'TestLevel01' took 1.538
+[2019.03.10-21.02.11:374][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.02.20:640][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile5)
+[2019.03.10-21.02.21:067][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile6)
+[2019.03.10-21.02.22:039][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile3)
+[2019.03.10-21.02.22:467][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile6)
+[2019.03.10-21.02.23:016][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile5)
+[2019.03.10-21.02.24:945][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScafoldingSingleOpen6)
+[2019.03.10-21.02.25:446][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RubishPile6)
+[2019.03.10-21.02.26:653][312]Cmd: DELETE
+[2019.03.10-21.02.26:653][312]Cmd: ACTOR DELETE
+[2019.03.10-21.02.26:675][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.10-21.02.26:694][312]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.03.10-21.02.29:876][587]Cmd: TRANSACTION UNDO
+[2019.03.10-21.02.29:876][587]LogEditorTransaction: Undo Delete Actors
+[2019.03.10-21.06.30:180][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestLevel01' took 0.022
+[2019.03.10-21.16.50:297][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.16.50:408][208]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestLevel01' took 0.041
+[2019.03.10-21.17.26:905][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.17.29:092][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.17.29:666][987]LogSlate: Window 'Jamfuzer - Unreal Editor' being destroyed
+[2019.03.10-21.17.29:944][988]Cmd: QUIT_EDITOR
+[2019.03.10-21.17.30:588][988]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.10-21.17.30:604][988]LogExit: Preparing to exit.
+[2019.03.10-21.17.30:865][988]LogExit: Editor shut down
+[2019.03.10-21.17.30:866][988]LogExit: Transaction tracking system shut down
+[2019.03.10-21.17.31:494][988]LogExit: Object subsystem successfully closed.
+[2019.03.10-21.17.31:602][988]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.10-21.17.31:606][988]LogD3D11RHI: Shutdown
+[2019.03.10-21.17.31:606][988]LogD3D11RHI: CleanupD3DDevice
+[2019.03.10-21.17.31:611][988]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.10-21.17.31:624][988]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (606)
+[2019.03.10-21.17.31:624][988]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (604)
+[2019.03.10-21.17.31:624][988]LogModuleManager: Shutting down and abandoning module Voice (602)
+[2019.03.10-21.17.31:624][988]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (600)
+[2019.03.10-21.17.31:624][988]LogModuleManager: Shutting down and abandoning module SceneOutliner (598)
+[2019.03.10-21.17.31:624][988]LogModuleManager: Shutting down and abandoning module AddContentDialog (596)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module WidgetCarousel (595)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module EditorWidgets (592)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module CollectionManager (590)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module StatsViewer (588)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module FoliageEdit (586)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module LandscapeEditor (584)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module MeshPaintMode (582)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (580)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module ActorPickerMode (578)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module GeometryMode (576)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module TextureAlignMode (574)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module BspMode (572)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (570)
+[2019.03.10-21.17.31:647][988]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (568)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module AutomationWorker (566)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (564)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (560)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (558)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module PlacementMode (557)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (552)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (550)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (548)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (546)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (544)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (542)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (540)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (538)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (536)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (534)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (532)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (530)
+[2019.03.10-21.17.31:648][988]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (528)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module CharacterAI (526)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module SmartSnapping (524)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module SessionServices (522)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module ViewportSnapping (520)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module ViewportInteraction (518)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module ClothPainter (516)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (515)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module LogVisualizer (512)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module IntroTutorials (510)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (509)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (506)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (504)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (502)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (500)
+[2019.03.10-21.17.31:649][988]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (499)
+[2019.03.10-21.17.32:254][988]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (496)
+[2019.03.10-21.17.32:254][988]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (494)
+[2019.03.10-21.17.32:254][988]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (492)
+[2019.03.10-21.17.32:254][988]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (490)
+[2019.03.10-21.17.32:254][988]LogModuleManager: Shutting down and abandoning module InputBindingEditor (488)
+[2019.03.10-21.17.32:254][988]LogModuleManager: Shutting down and abandoning module MergeActors (486)
+[2019.03.10-21.17.32:254][988]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (484)
+[2019.03.10-21.17.32:255][988]LogModuleManager: Shutting down and abandoning module LocalizationService (483)
+[2019.03.10-21.17.32:255][988]LogModuleManager: Shutting down and abandoning module HardwareTargeting (480)
+[2019.03.10-21.17.32:255][988]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (478)
+[2019.03.10-21.17.32:255][988]LogModuleManager: Shutting down and abandoning module UndoHistory (476)
+[2019.03.10-21.17.32:255][988]LogModuleManager: Shutting down and abandoning module XmlParser (474)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module Blutility (472)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (470)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (469)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (466)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module SettingsEditor (464)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module ProjectLauncher (462)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module SessionFrontend (460)
+[2019.03.10-21.17.32:256][988]LogModuleManager: Shutting down and abandoning module ProfilerClient (458)
+[2019.03.10-21.17.32:257][988]LogModuleManager: Shutting down and abandoning module DeviceManager (456)
+[2019.03.10-21.17.32:257][988]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (455)
+[2019.03.10-21.17.32:323][988]LogModuleManager: Shutting down and abandoning module AutomationController (452)
+[2019.03.10-21.17.32:420][988]LogModuleManager: Shutting down and abandoning module AutomationWindow (450)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module Layers (448)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (446)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module DetailCustomizations (444)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module PackagesDialog (442)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module Persona (440)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (439)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module AnimGraph (437)
+[2019.03.10-21.17.32:421][988]LogModuleManager: Shutting down and abandoning module Kismet (434)
+[2019.03.10-21.17.32:422][988]LogModuleManager: Shutting down and abandoning module GraphEditor (432)
+[2019.03.10-21.17.32:424][988]LogModuleManager: Shutting down and abandoning module ClassViewer (430)
+[2019.03.10-21.17.32:424][988]LogModuleManager: Shutting down and abandoning module Toolbox (428)
+[2019.03.10-21.17.32:424][988]LogModuleManager: Shutting down and abandoning module ModuleUI (426)
+[2019.03.10-21.17.32:424][988]LogModuleManager: Shutting down and abandoning module MovieSceneTools (424)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module OutputLog (422)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module GammaUI (420)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module Documentation (418)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (416)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module MovieScene (414)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (412)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module LauncherPlatform (410)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module AnalyticsET (408)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module PortalServices (406)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module PortalRpc (404)
+[2019.03.10-21.17.32:425][988]LogModuleManager: Shutting down and abandoning module MessagingRpc (402)
+[2019.03.10-21.17.32:426][988]LogModuleManager: Shutting down and abandoning module AIModule (400)
+[2019.03.10-21.17.32:426][988]LogModuleManager: Shutting down and abandoning module GameplayDebugger (399)
+[2019.03.10-21.17.32:426][988]LogModuleManager: Shutting down and abandoning module AITestSuite (397)
+[2019.03.10-21.17.32:426][988]LogModuleManager: Shutting down and abandoning module NavigationSystem (395)
+[2019.03.10-21.17.32:426][988]LogModuleManager: Shutting down and abandoning module DesktopPlatform (392)
+[2019.03.10-21.17.32:426][988]LogModuleManager: Shutting down and abandoning module ProfilerService (390)
+[2019.03.10-21.17.32:590][988]LogModuleManager: Shutting down and abandoning module TaskGraph (388)
+[2019.03.10-21.17.32:590][988]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (386)
+[2019.03.10-21.17.32:590][988]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (384)
+[2019.03.10-21.17.32:590][988]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (382)
+[2019.03.10-21.17.32:590][988]LogModuleManager: Shutting down and abandoning module EditableMesh (380)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (378)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module CableComponent (376)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module AudioCapture (374)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (372)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module AndroidPermission (370)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (368)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (366)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (364)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module MediaCompositing (362)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module LinearTimecode (360)
+[2019.03.10-21.17.32:591][988]LogModuleManager: Shutting down and abandoning module ImgMedia (358)
+[2019.03.10-21.17.32:596][988]LogModuleManager: Shutting down and abandoning module HTML5Networking (356)
+[2019.03.10-21.17.32:596][988]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (354)
+[2019.03.10-21.17.32:596][988]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (352)
+[2019.03.10-21.17.32:596][988]LogModuleManager: Shutting down and abandoning module BackChannel (350)
+[2019.03.10-21.17.32:596][988]LogModuleManager: Shutting down and abandoning module AppleVision (348)
+[2019.03.10-21.17.32:597][988]LogModuleManager: Shutting down and abandoning module AppleImageUtils (346)
+[2019.03.10-21.17.32:597][988]LogModuleManager: Shutting down and abandoning module AlembicImporter (344)
+[2019.03.10-21.17.32:597][988]LogModuleManager: Shutting down and abandoning module AlembicLibrary (343)
+[2019.03.10-21.17.32:597][988]LogModuleManager: Shutting down and abandoning module GeometryCache (342)
+[2019.03.10-21.17.32:597][988]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (341)
+[2019.03.10-21.17.32:597][988]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2019.03.10-21.17.32:597][988]LogModuleManager: Shutting down and abandoning module DatasmithContent (334)
+[2019.03.10-21.17.32:598][988]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (332)
+[2019.03.10-21.17.32:598][988]LogModuleManager: Shutting down and abandoning module PluginBrowser (330)
+[2019.03.10-21.17.32:598][988]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (328)
+[2019.03.10-21.17.32:598][988]LogModuleManager: Shutting down and abandoning module PolygonModeling (326)
+[2019.03.10-21.17.32:598][988]LogModuleManager: Shutting down and abandoning module MeshEditor (324)
+[2019.03.10-21.17.32:598][988]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (322)
+[2019.03.10-21.17.32:598][988]LogModuleManager: Shutting down and abandoning module CryptoKeys (320)
+[2019.03.10-21.17.32:599][988]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2019.03.10-21.17.32:599][988]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2019.03.10-21.17.32:599][988]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2019.03.10-21.17.32:599][988]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2019.03.10-21.17.32:599][988]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2019.03.10-21.17.32:599][988]LogModuleManager: Shutting down and abandoning module GitSourceControl (308)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module SourceControl (307)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (304)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.10-21.17.32:600][988]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (284)
+[2019.03.10-21.17.32:603][988]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (282)
+[2019.03.10-21.17.32:603][988]LogModuleManager: Shutting down and abandoning module ActorSequence (280)
+[2019.03.10-21.17.32:603][988]LogModuleManager: Shutting down and abandoning module UdpMessaging (278)
+[2019.03.10-21.17.32:704][988]LogModuleManager: Shutting down and abandoning module TcpMessaging (276)
+[2019.03.10-21.17.32:805][988]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (274)
+[2019.03.10-21.17.32:805][988]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2019.03.10-21.17.32:805][988]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (270)
+[2019.03.10-21.17.32:805][988]LogModuleManager: Shutting down and abandoning module FacialAnimation (268)
+[2019.03.10-21.17.32:805][988]LogModuleManager: Shutting down and abandoning module DataValidation (266)
+[2019.03.10-21.17.32:805][988]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (264)
+[2019.03.10-21.17.32:805][988]LogModuleManager: Shutting down and abandoning module LevelEditor (263)
+[2019.03.10-21.17.32:806][988]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (262)
+[2019.03.10-21.17.32:806][988]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (260)
+[2019.03.10-21.17.32:806][988]LogModuleManager: Shutting down and abandoning module MainFrame (258)
+[2019.03.10-21.17.32:806][988]LogModuleManager: Shutting down and abandoning module HotReload (257)
+[2019.03.10-21.17.32:806][988]LogModuleManager: Shutting down and abandoning module ContentBrowser (253)
+[2019.03.10-21.17.32:807][988]LogModuleManager: Shutting down and abandoning module TreeMap (251)
+[2019.03.10-21.17.32:807][988]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (248)
+[2019.03.10-21.17.32:807][988]LogModuleManager: Shutting down and abandoning module AISupportModule (246)
+[2019.03.10-21.17.32:807][988]LogModuleManager: Shutting down and abandoning module Paper2D (244)
+[2019.03.10-21.17.32:807][988]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (242)
+[2019.03.10-21.17.32:807][988]LogModuleManager: Shutting down and abandoning module WmfMedia (240)
+[2019.03.10-21.17.32:808][988]LogModuleManager: Shutting down and abandoning module Media (239)
+[2019.03.10-21.17.32:814][988]LogModuleManager: Shutting down and abandoning module PacketHandler (236)
+[2019.03.10-21.17.32:814][988]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (234)
+[2019.03.10-21.17.32:814][988]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (232)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module MediaAssets (230)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module Overlay (228)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module OverlayEditor (227)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module VREditor (224)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module StringTableEditor (222)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (220)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (218)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module FunctionalTesting (216)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (214)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (213)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module UMG (210)
+[2019.03.10-21.17.32:817][988]LogModuleManager: Shutting down and abandoning module UMGEditor (209)
+[2019.03.10-21.17.32:818][988]LogModuleManager: Shutting down and abandoning module Sequencer (208)
+[2019.03.10-21.17.32:818][988]LogModuleManager: Shutting down and abandoning module MessageLog (205)
+[2019.03.10-21.17.32:818][988]LogModuleManager: Shutting down and abandoning module SlateReflector (200)
+[2019.03.10-21.17.32:818][988]LogModuleManager: Shutting down and abandoning module Slate (198)
+[2019.03.10-21.17.32:818][988]LogModuleManager: Shutting down and abandoning module EditorStyle (196)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module MRMesh (194)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (192)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (190)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module XAudio2 (188)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module Networking (186)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module Core (184)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module LevelSequence (182)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module KismetCompiler (180)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module MeshUtilities (178)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (177)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (176)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (175)
+[2019.03.10-21.17.32:819][988]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (173)
+[2019.03.10-21.17.32:820][988]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (171)
+[2019.03.10-21.17.32:820][988]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (169)
+[2019.03.10-21.17.32:820][988]LogModuleManager: Shutting down and abandoning module MaterialBaking (165)
+[2019.03.10-21.17.32:820][988]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2019.03.10-21.17.32:820][988]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2019.03.10-21.17.32:827][988]LogDerivedDataCache: Shutdown
+[2019.03.10-21.17.32:827][988]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2019.03.10-21.17.32:827][988]LogXGEController: Cleaning working directory: C:/Users/space/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.10-21.17.32:827][988]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2019.03.10-21.17.32:827][988]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2019.03.10-21.17.32:827][988]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2019.03.10-21.17.32:827][988]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2019.03.10-21.17.32:828][988]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2019.03.10-21.17.32:829][988]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2019.03.10-21.17.32:829][988]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2019.03.10-21.17.32:829][988]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2019.03.10-21.17.32:829][988]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2019.03.10-21.17.32:841][988]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2019.03.10-21.17.32:841][988]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2019.03.10-21.17.32:841][988]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2019.03.10-21.17.32:841][988]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2019.03.10-21.17.32:841][988]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2019.03.10-21.17.32:841][988]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module InputCore (84)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module Settings (82)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module PhysXCooking (80)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.03.10-21.17.32:842][988]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.03.10-21.17.32:866][988]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.03.10-21.17.32:866][988]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.10-21.17.32:866][988]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09C1A242-4D0E-CE95-2CF3-61ADE34572CC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=126ba13c4ebe7080ebfc9aab4737cd0c%7C22bbfe5a44214fa6a995a6190dfc0f17%7Cd6206206-018f-489c-9797-ef897a11a7a9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.10-21.17.32:873][988]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.03.10-21.17.32:874][988]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.10-21.17.32:874][988]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.10-21.17.32:880][988]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.10-21.17.32:880][988]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.10-21.17.32:880][988]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.10-21.17.32:881][988]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.10-21.17.32:884][988]LogExit: Exiting.
+[2019.03.10-21.17.32:887][988]Log file closed, 03/10/19 21:17:32
+>>>>>>> 6f80188f93c0bd7f2e990dedc83052e9fa3f07e2
